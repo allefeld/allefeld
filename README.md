@@ -1,4 +1,4 @@
-I am a lecturer in psychology at City, University of London, where I work on statistical data analysis methods for cognitive neuroscience and psychology, and teach about statistical methods and their implementation in Matlab, R, and Python.
+I am a lecturer in psychology at City, University of London, where I work on statistical data analysis methods for cognitive neuroscience and psychology, and teach about statistical methods and their implementation in Matlab, R, and Python. My background is in physics (nonlinear dynamics).
 
 My repositories contain
 
