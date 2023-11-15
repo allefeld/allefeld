@@ -1,16 +1,15 @@
-### Hi there 👋
+I am a lecturer in psychology at City, University of London, where I work on statistical data analysis methods for cognitive neuroscience and psychology.
 
-<!--
-**allefeld/allefeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My background is in physics, where I obtained a PhD in nonlinear dynamics. The work was in collaboration with colleagues from psychology and linguistics, and over time I moved into cognitive neuroscience and psychology, but with a focus on methods for EEG and fMRI analysis. I was always fascinated by computers and programming, and the skills I acquired privately later proved extremely useful in my methodological work. At City I teach about statistical methods and their implementation in Matlab, R, and Python.
 
-Here are some ideas to get you started:
+My repositories contain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  implementations of methods developed by me, e.g. [Cross-validated Cross-MANOVA](https://github.com/allefeld/cvcrossmanova), [Cross-validated MANOVA](https://github.com/allefeld/cvmanova), [permutation-based prevalence inference](https://github.com/allefeld/prevalence-permutation), and the [identfication of metastable macrostates](https://github.com/allefeld/metastable-macrostates);
+
+-  software useful for academic work, e.g. a [Jupyter Kernel for Matlab](https://github.com/allefeld/mkernel), a [Python interface to TikZ](https://github.com/allefeld/pytikz), a [Matlab interface to TikZ](https://github.com/allefeld/tikzfig), and [functions to visualize brain MR images for Matlab](https://github.com/allefeld/mrivis);
+
+-  and a [web app to assist in the teaching of statistical methods](https://github.com/allefeld/tykhe).
+
+I also use GitHub to publish my [personal academic home page](https://allefeld.github.io/) and a [random collection of nerdy notes]([https://github.com/allefeld/nerd-notes](https://allefeld.github.io/nerd-notes/)).
+
+I occasionally contribute to research-related open source projects on GitHub.
