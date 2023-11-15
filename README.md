@@ -6,4 +6,6 @@ My repositories contain
 -  software useful for academic work, e.g. a [Jupyter Kernel for Matlab](https://github.com/allefeld/mkernel), a [Python interface to TikZ](https://github.com/allefeld/pytikz), a [Matlab interface to TikZ](https://github.com/allefeld/tikzfig), and [functions to visualize brain MR images for Matlab](https://github.com/allefeld/mrivis);
 -  and a [web app to assist in the teaching of statistical methods](https://github.com/allefeld/tykhe).
 
-I also use GitHub to publish my [personal academic home page](https://allefeld.github.io/) and a [random collection of nerdy notes]([https://github.com/allefeld/nerd-notes](https://allefeld.github.io/nerd-notes/)).
+I also use GitHub to publish a [random collection of nerdy notes](https://allefeld.github.io/nerd-notes/).
+
+My preferred tools are Python, VS Code, and Pandoc / Quarto.
